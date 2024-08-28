@@ -1,7 +1,7 @@
 Hi there!
 I'm a Full Stack Web Developer.
 
-👨‍💻 My website is now online https://gama10tech.github.io/pesonal_portfolio/
+<a href="https://gama10tech.github.io/pesonal_portfolio/">👨‍💻 My website is now online</a>
 
 <!--
 **Gama10Tech/Gama10Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
