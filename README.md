@@ -1,6 +1,8 @@
-## Hi there 👋
+Hi there!
+I'm a Full Stack Web Developer.
 
-<img src="https://learn.microsoft.com/en-us/dotnet/architecture/microservices/container-docker-introduction/media/docker-containers-images-registries/taxonomy-of-docker-terms-and-concepts.png"></img>
+👨‍💻 My website is now online https://gama10tech.github.io/pesonal_portfolio/
+
 <!--
 **Gama10Tech/Gama10Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
