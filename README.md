@@ -1,19 +1,17 @@
 Hi there!
 I'm a Full Stack Web Developer.
 
-<a href="https://gama10tech.github.io/pesonal_portfolio/">👨‍💻 My website is now online</a>
+<a href="https://gama10tech.github.io/pesonal_portfolio/" target="blank">👨‍💻 My website is now online</a>
+📫 How to reach me goncalo.gama9@gmail.com
 
-<!--
-**Gama10Tech/Gama10Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages and Tools:
+<ul>
+  <li>Javascript</li>
+    <li>Typescript</li>
+  <li>NodeJs</li>
+  <li>ReactJs</li>
+   <li>SQL</li>
+  <li>VueJs</li> 
+  <li>Git</li>
+  <li>Others</li>
+</ul>
